@@ -27,3 +27,8 @@ body {
   font-weight: 400;
   font-family: Ariel;
 }
+
+footer {
+background-color: #333333;
+ position: fixed;
+}
