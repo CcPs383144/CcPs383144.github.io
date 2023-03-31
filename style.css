@@ -1,1 +1,29 @@
+p {
+  color: #0000ff;
+    width: 20px;
+}
+  
+ul {
+  height: 70px;
+  font-size: 16pt;
+}
 
+ol {
+   font-weight: 400;
+  font-family: Ariel;
+}
+
+h1 {
+  height: 70px;
+  font-size: 16pt;
+}
+
+header {
+   color: #0000ff;
+    width: 20px;
+}
+
+body {
+  font-weight: 400;
+  font-family: Ariel;
+}
